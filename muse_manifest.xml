@@ -1,0 +1,289 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GKgames.com" resolutions="1x" timestamp="1753949894723">
+  <folder name="css">
+    <file name="site_global.css" crc="433416635"/>
+    <file name="master_a-master.css" crc="497630117" ref="index:bussiness:graphics:games:about:shop"/>
+    <file name="index.css" crc="4123082739" ref="index"/>
+    <file name="bussiness.css" crc="4013642462" ref="bussiness"/>
+    <file name="graphics.css" crc="466492759" ref="graphics"/>
+    <file name="games.css" crc="4177793879" ref="games"/>
+    <file name="about.css" crc="151594293" ref="about"/>
+    <file name="shop.css" crc="4039482458" ref="shop"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="museutils.js" crc="3939489907" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="whatinput.js" crc="86476730" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="webpro.js" crc="3856315280" ref="index:about:graphics"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:about:graphics"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:about:graphics"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:about:graphics"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="require.js" crc="4177726516" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:graphics"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted-svg-1953464x1421.svg" crc="3762254307" seo="true" ref="index:games:shop:about:graphics:bussiness">
+      <caption webpage="about" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bussiness" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="pasted svg 1953464x1421_poster_.png" crc="4050924631" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u9565.png" crc="345066003" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u9565-r.png" crc="3873095672" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u9565-m.png" crc="3873095672" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u9565-a.png" crc="3847765413" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u9579.png" crc="4083942780" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u9579-r.png" crc="3775886053" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u9579-m.png" crc="3775886053" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u9579-a.png" crc="4200361581" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u9572.png" crc="4144981753" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u9572-r.png" crc="4125082140" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u9572-m.png" crc="4125082140" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u9572-a.png" crc="419532760" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u9585.png" crc="115216909" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u9585-r.png" crc="3793293710" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u9585-m.png" crc="3793293710" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u9585-a.png" crc="76113407" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u11128.png" crc="3847053117" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u11128-r.png" crc="4143757218" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u11128-m.png" crc="4143757218" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u11128-a.png" crc="382008497" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="icons8-discord-150.svg" crc="232430556" seo="true" ref="index:games:shop:about:graphics:bussiness">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bussiness" alt=""/>
+      <caption webpage="bussiness" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="shop" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="icons8-discord-150_poster_.png" crc="13342957" ref="index"/>
+    <file name="u3308_states.png" crc="225577684" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u3308_states-r.png" crc="225577684" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="14-art-render-01-crop-u9316.jpg" crc="3842730478" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14-art-cartoon-car-02-crop-u12967.jpg" crc="4206671320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-crop-u12992.jpg" crc="3889065093" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9328-6.png" crc="3783465155" ref="index"/>
+    <file name="u12979-6.png" crc="3776796863" ref="index"/>
+    <file name="u13004-6.png" crc="4276226023" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:about:graphics"/>
+    <file name="road.svg" crc="4196487504" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="road_poster_.png" crc="4124103077" ref="index"/>
+    <file name="freelancer.svg" crc="3779708870" seo="true" ref="index:games:shop:about:graphics:bussiness">
+      <caption webpage="about" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bussiness" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="freelancer_poster_.png" crc="127119925" ref="index"/>
+    <file name="icons8-linkedin-150.svg" crc="3789069463" seo="true" ref="index:games:shop:about:graphics:bussiness">
+      <caption webpage="about" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bussiness" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="icons8-linkedin-150_poster_.png" crc="3887922750" ref="index"/>
+    <file name="icons8-facebook-logo-150.svg" crc="23784958" seo="true" ref="index:games:shop:about:graphics:bussiness">
+      <caption webpage="about" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bussiness" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="icons8-facebook-logo-150_poster_.png" crc="3845197713" ref="index"/>
+    <file name="icons8-instagram-144.svg" crc="3939103569" seo="true" ref="index:games:shop:about:graphics:bussiness">
+      <caption webpage="about" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bussiness" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="icons8-instagram-144_poster_.png" crc="4005108287" ref="index"/>
+    <file name="icons8-x-150.svg" crc="4212642419" seo="true" ref="index:games:shop:about:graphics:bussiness">
+      <caption webpage="about" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bussiness" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="icons8-x-150_poster_.png" crc="493876856" ref="index"/>
+    <file name="icons8-youtube-144.svg" crc="4112332991" seo="true" ref="index:games:shop:about:graphics:bussiness">
+      <caption webpage="about" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bussiness" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="icons8-youtube-144_poster_.png" crc="4204878518" ref="index"/>
+    <file name="gk_games.svg" crc="4098647012" seo="true" ref="index:games:shop:about:graphics:bussiness">
+      <caption webpage="about" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bussiness" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="shop" alt=""/>
+    </file>
+    <file name="gk_games_poster_.png" crc="335332339" ref="index"/>
+    <file name="u11283-4.png" crc="346413773" ref="about"/>
+    <file name="u11289-20.png" crc="3910829253" ref="about"/>
+    <file name="u11296-4.png" crc="4002609600" ref="about"/>
+    <file name="cactus-crop-u11324.jpg" crc="151638117" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="road-crop-u11320.jpg" crc="238422681" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="trees-crop-u11322.jpg" crc="85132204" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="cactus-crop-u11513.jpg" crc="151638117" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="road-crop-u11511.jpg" crc="238422681" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="trees-crop-u11509.jpg" crc="85132204" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="cactus-crop-u11423.jpg" crc="151638117" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="road-crop-u11419.jpg" crc="238422681" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="trees-crop-u11421.jpg" crc="85132204" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="cactus-crop-u11597.jpg" crc="151638117" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="road-crop-u11595.jpg" crc="238422681" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="trees-crop-u11593.jpg" crc="85132204" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u11681-4.png" crc="225059728" ref="about"/>
+    <file name="u11682-31.png" crc="4170740282" ref="about"/>
+    <file name="u11687-4.png" crc="432280523" ref="about"/>
+    <file name="u11690-17.png" crc="3890164977" ref="about"/>
+    <file name="u11697-4.png" crc="4129459426" ref="about"/>
+    <file name="thumnil-u12241.png" crc="108338817" ref="graphics"/>
+    <file name="u12913-10.png" crc="287498197" ref="graphics"/>
+    <file name="3-crop-u12514.jpg" crc="441949927" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="4-crop-u12722.jpg" crc="3793577692" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="6-crop-u12742.jpg" crc="4248611097" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="7-crop-u12762.jpg" crc="4165220123" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="10-crop-u12782.jpg" crc="3768574948" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="11-crop-u12802.jpg" crc="207878066" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="12-crop-u12822.jpg" crc="291019452" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="13-crop-u12842.jpg" crc="301826660" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="14-crop-u12862.jpg" crc="257334916" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="18-crop-u12882.jpg" crc="3977886026" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="5-crop-u12385.jpg" crc="3862227690" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="2-crop-u12492.jpg" crc="137795106" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="9-crop-u12405.jpg" crc="3941618850" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="16-crop-u12425.jpg" crc="4138363946" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="17-crop-u12445.jpg" crc="4049161135" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="19-crop-u12465.jpg" crc="3830371871" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="1.jpg" crc="145439802" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.jpg" crc="3950927502" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="3880456441" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="509601163" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11154-4.png" crc="3874472968" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u11280-4.png" crc="265545192" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u13076-4.png" crc="3779286806" ref="bussiness"/>
+    <file name="u13073-6.png" crc="366801032" ref="bussiness"/>
+    <file name="u13122-4.png" crc="4157876413" ref="bussiness"/>
+    <file name="u13134-4.png" crc="512123037" ref="bussiness"/>
+    <file name="u13140-4.png" crc="400421545" ref="bussiness"/>
+    <file name="6jpeg.jpg" crc="3988842322" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4211785395" seo="true" mt="1753949889343" redirect="true"/>
+  <file name="games.html" crc="4051925016" seo="true" mt="1753949889343" redirect="true"/>
+  <file name="shop.html" crc="180169179" seo="true" mt="1753949889343" redirect="true"/>
+  <file name="about.html" crc="148715918" seo="true" mt="1753949889343" redirect="true"/>
+  <file name="graphics.html" crc="4214237263" seo="true" mt="1753949889343" redirect="true"/>
+  <file name="bussiness.html" crc="343789925" seo="true" mt="1753949889343" redirect="true"/>
+</manifest>
