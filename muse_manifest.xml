@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GKgames.com" resolutions="1x" timestamp="1753949894723">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GKgames.com" resolutions="1x" timestamp="1754152229529">
   <folder name="css">
     <file name="site_global.css" crc="433416635"/>
-    <file name="master_a-master.css" crc="497630117" ref="index:bussiness:graphics:games:about:shop"/>
-    <file name="index.css" crc="4123082739" ref="index"/>
-    <file name="bussiness.css" crc="4013642462" ref="bussiness"/>
-    <file name="graphics.css" crc="466492759" ref="graphics"/>
-    <file name="games.css" crc="4177793879" ref="games"/>
-    <file name="about.css" crc="151594293" ref="about"/>
-    <file name="shop.css" crc="4039482458" ref="shop"/>
+    <file name="master_a-master.css" crc="519483170" ref="index:bussiness:graphics:games:about:shop"/>
+    <file name="index.css" crc="4191490605" ref="index"/>
+    <file name="bussiness.css" crc="3837341038" ref="bussiness"/>
+    <file name="graphics.css" crc="146980237" ref="graphics"/>
+    <file name="games.css" crc="327922402" ref="games"/>
+    <file name="about.css" crc="110147036" ref="about"/>
+    <file name="shop.css" crc="4284601136" ref="shop"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:games:shop:about:graphics:bussiness"/>
@@ -26,54 +26,54 @@
   </folder>
   <folder name="images">
     <file name="pasted-svg-1953464x1421.svg" crc="3762254307" seo="true" ref="index:games:shop:about:graphics:bussiness">
-      <caption webpage="about" alt=""/>
-      <caption webpage="graphics" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="bussiness" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="games" alt=""/>
       <caption webpage="shop" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="pasted svg 1953464x1421_poster_.png" crc="4050924631" ref="index"/>
+    <file name="pasted svg 1953464x1421_poster_.png" crc="4050924631" ref="index:graphics"/>
     <file name="blank.gif" crc="4208392903" ref="index:games:shop:about:graphics:bussiness"/>
-    <file name="u9565.png" crc="345066003" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u9565.png" crc="495898521" ref="index:games:shop:about:graphics:bussiness"/>
     <file name="u9565-r.png" crc="3873095672" ref="index:games:shop:about:graphics:bussiness"/>
     <file name="u9565-m.png" crc="3873095672" ref="index:games:shop:about:graphics:bussiness"/>
     <file name="u9565-a.png" crc="3847765413" ref="index:games:shop:about:graphics:bussiness"/>
-    <file name="u9579.png" crc="4083942780" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u9579.png" crc="482748179" ref="index:games:shop:about:graphics:bussiness"/>
     <file name="u9579-r.png" crc="3775886053" ref="index:games:shop:about:graphics:bussiness"/>
     <file name="u9579-m.png" crc="3775886053" ref="index:games:shop:about:graphics:bussiness"/>
     <file name="u9579-a.png" crc="4200361581" ref="index:games:shop:about:graphics:bussiness"/>
-    <file name="u9572.png" crc="4144981753" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u9572.png" crc="156036282" ref="index:games:shop:about:graphics:bussiness"/>
     <file name="u9572-r.png" crc="4125082140" ref="index:games:shop:about:graphics:bussiness"/>
     <file name="u9572-m.png" crc="4125082140" ref="index:games:shop:about:graphics:bussiness"/>
     <file name="u9572-a.png" crc="419532760" ref="index:games:shop:about:graphics:bussiness"/>
-    <file name="u9585.png" crc="115216909" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u9585.png" crc="111348604" ref="index:games:shop:about:graphics:bussiness"/>
     <file name="u9585-r.png" crc="3793293710" ref="index:games:shop:about:graphics:bussiness"/>
     <file name="u9585-m.png" crc="3793293710" ref="index:games:shop:about:graphics:bussiness"/>
     <file name="u9585-a.png" crc="76113407" ref="index:games:shop:about:graphics:bussiness"/>
-    <file name="u11128.png" crc="3847053117" ref="index:games:shop:about:graphics:bussiness"/>
-    <file name="u11128-r.png" crc="4143757218" ref="index:games:shop:about:graphics:bussiness"/>
-    <file name="u11128-m.png" crc="4143757218" ref="index:games:shop:about:graphics:bussiness"/>
-    <file name="u11128-a.png" crc="382008497" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u11128.png" crc="4045382924" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u11128-r.png" crc="3795675895" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u11128-m.png" crc="3795675895" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u11128-a.png" crc="3941338908" ref="index:games:shop:about:graphics:bussiness"/>
     <file name="icons8-discord-150.svg" crc="232430556" seo="true" ref="index:games:shop:about:graphics:bussiness">
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="graphics" alt=""/>
-      <caption webpage="graphics" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="bussiness" alt=""/>
       <caption webpage="bussiness" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="games" alt=""/>
-      <caption webpage="games" alt=""/>
       <caption webpage="shop" alt=""/>
       <caption webpage="shop" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="icons8-discord-150_poster_.png" crc="13342957" ref="index"/>
-    <file name="u3308_states.png" crc="225577684" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="icons8-discord-150_poster_.png" crc="13342957" ref="index:graphics"/>
+    <file name="u3308_states.png" crc="4004426774" ref="index:games:shop:about:graphics:bussiness"/>
     <file name="u3308_states-r.png" crc="225577684" ref="index:games:shop:about:graphics:bussiness"/>
     <file name="14-art-render-01-crop-u9316.jpg" crc="3842730478" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -84,84 +84,81 @@
     <file name="6-crop-u12992.jpg" crc="3889065093" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u9328-6.png" crc="3783465155" ref="index"/>
-    <file name="u12979-6.png" crc="3776796863" ref="index"/>
-    <file name="u13004-6.png" crc="4276226023" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index:about:graphics"/>
     <file name="road.svg" crc="4196487504" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="road_poster_.png" crc="4124103077" ref="index"/>
     <file name="freelancer.svg" crc="3779708870" seo="true" ref="index:games:shop:about:graphics:bussiness">
-      <caption webpage="about" alt=""/>
-      <caption webpage="graphics" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="bussiness" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="games" alt=""/>
       <caption webpage="shop" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="freelancer_poster_.png" crc="127119925" ref="index"/>
+    <file name="freelancer_poster_.png" crc="127119925" ref="index:graphics"/>
     <file name="icons8-linkedin-150.svg" crc="3789069463" seo="true" ref="index:games:shop:about:graphics:bussiness">
-      <caption webpage="about" alt=""/>
-      <caption webpage="graphics" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="bussiness" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="games" alt=""/>
       <caption webpage="shop" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="icons8-linkedin-150_poster_.png" crc="3887922750" ref="index"/>
+    <file name="icons8-linkedin-150_poster_.png" crc="3887922750" ref="index:graphics"/>
     <file name="icons8-facebook-logo-150.svg" crc="23784958" seo="true" ref="index:games:shop:about:graphics:bussiness">
-      <caption webpage="about" alt=""/>
-      <caption webpage="graphics" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="bussiness" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="games" alt=""/>
       <caption webpage="shop" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="icons8-facebook-logo-150_poster_.png" crc="3845197713" ref="index"/>
+    <file name="icons8-facebook-logo-150_poster_.png" crc="3845197713" ref="index:graphics"/>
     <file name="icons8-instagram-144.svg" crc="3939103569" seo="true" ref="index:games:shop:about:graphics:bussiness">
-      <caption webpage="about" alt=""/>
-      <caption webpage="graphics" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="bussiness" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="games" alt=""/>
       <caption webpage="shop" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="icons8-instagram-144_poster_.png" crc="4005108287" ref="index"/>
+    <file name="icons8-instagram-144_poster_.png" crc="4005108287" ref="index:graphics"/>
     <file name="icons8-x-150.svg" crc="4212642419" seo="true" ref="index:games:shop:about:graphics:bussiness">
-      <caption webpage="about" alt=""/>
-      <caption webpage="graphics" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="bussiness" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="games" alt=""/>
       <caption webpage="shop" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="icons8-x-150_poster_.png" crc="493876856" ref="index"/>
+    <file name="icons8-x-150_poster_.png" crc="493876856" ref="index:graphics"/>
     <file name="icons8-youtube-144.svg" crc="4112332991" seo="true" ref="index:games:shop:about:graphics:bussiness">
-      <caption webpage="about" alt=""/>
-      <caption webpage="graphics" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="bussiness" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="games" alt=""/>
       <caption webpage="shop" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="icons8-youtube-144_poster_.png" crc="4204878518" ref="index"/>
+    <file name="icons8-youtube-144_poster_.png" crc="4204878518" ref="index:graphics"/>
     <file name="gk_games.svg" crc="4098647012" seo="true" ref="index:games:shop:about:graphics:bussiness">
-      <caption webpage="about" alt=""/>
-      <caption webpage="graphics" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="bussiness" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="games" alt=""/>
       <caption webpage="shop" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="games" alt=""/>
+      <caption webpage="contact" alt=""/>
     </file>
-    <file name="gk_games_poster_.png" crc="335332339" ref="index"/>
+    <file name="gk_games_poster_.png" crc="335332339" ref="index:graphics"/>
     <file name="u11283-4.png" crc="346413773" ref="about"/>
     <file name="u11289-20.png" crc="3910829253" ref="about"/>
     <file name="u11296-4.png" crc="4002609600" ref="about"/>
@@ -206,8 +203,8 @@
     <file name="u11687-4.png" crc="432280523" ref="about"/>
     <file name="u11690-17.png" crc="3890164977" ref="about"/>
     <file name="u11697-4.png" crc="4129459426" ref="about"/>
-    <file name="thumnil-u12241.png" crc="108338817" ref="graphics"/>
-    <file name="u12913-10.png" crc="287498197" ref="graphics"/>
+    <file name="thumnil-u12241.png" crc="223790314" ref="graphics"/>
+    <file name="u12913-10.png" crc="193705566" ref="graphics"/>
     <file name="3-crop-u12514.jpg" crc="441949927" seo="true" ref="graphics">
       <caption webpage="graphics" alt=""/>
     </file>
@@ -268,22 +265,23 @@
     <file name="4.jpg" crc="509601163" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u11154-4.png" crc="3874472968" ref="index:games:shop:about:graphics:bussiness"/>
-    <file name="u11280-4.png" crc="265545192" ref="index:games:shop:about:graphics:bussiness"/>
-    <file name="u13076-4.png" crc="3779286806" ref="bussiness"/>
-    <file name="u13073-6.png" crc="366801032" ref="bussiness"/>
-    <file name="u13122-4.png" crc="4157876413" ref="bussiness"/>
-    <file name="u13134-4.png" crc="512123037" ref="bussiness"/>
-    <file name="u13140-4.png" crc="400421545" ref="bussiness"/>
+    <file name="u11154-4.png" crc="510443323" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u11280-4.png" crc="419582184" ref="index:games:shop:about:graphics:bussiness"/>
+    <file name="u13076-4.png" crc="4116283937" ref="bussiness"/>
+    <file name="u13073-6.png" crc="3821816458" ref="bussiness"/>
+    <file name="u13122-4.png" crc="4269466144" ref="bussiness"/>
+    <file name="u13134-4.png" crc="4232968880" ref="bussiness"/>
+    <file name="u13140-4.png" crc="274640028" ref="bussiness"/>
     <file name="6jpeg.jpg" crc="3988842322" ref="graphics">
       <caption webpage="graphics" alt=""/>
       <caption webpage="graphics" alt=""/>
     </file>
+    <file name="u13497-25.png" crc="68853309" ref="graphics"/>
   </folder>
-  <file name="index.html" crc="4211785395" seo="true" mt="1753949889343" redirect="true"/>
-  <file name="games.html" crc="4051925016" seo="true" mt="1753949889343" redirect="true"/>
-  <file name="shop.html" crc="180169179" seo="true" mt="1753949889343" redirect="true"/>
-  <file name="about.html" crc="148715918" seo="true" mt="1753949889343" redirect="true"/>
-  <file name="graphics.html" crc="4214237263" seo="true" mt="1753949889343" redirect="true"/>
-  <file name="bussiness.html" crc="343789925" seo="true" mt="1753949889343" redirect="true"/>
+  <file name="index.html" crc="11076585" seo="true" mt="1754152224929" redirect="true"/>
+  <file name="games.html" crc="376253861" seo="true" mt="1754152224929" redirect="true"/>
+  <file name="shop.html" crc="4084446689" seo="true" mt="1754152224929" redirect="true"/>
+  <file name="about.html" crc="4254500702" seo="true" mt="1754152224929" redirect="true"/>
+  <file name="graphics.html" crc="3901287262" seo="true" mt="1754152067531" redirect="true"/>
+  <file name="bussiness.html" crc="4016947631" seo="true" mt="1754152224929" redirect="true"/>
 </manifest>
